@@ -23,8 +23,10 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Learn Reinforce Learing: "https://hrl.boyuai.com/chapter/intro/"
+  Author's Leetcode Home:
+    - First : "https://leetcode.cn/u/wobudaoa/"
+    - Second : "https://leetcode.cn/u/eager-hamiltonblt/"
 
 ################
 # --- Logo --- #
